@@ -1,2 +1,2 @@
 # sample2
-sample <br> descriptionn
+sample <br> description
